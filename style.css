@@ -280,6 +280,7 @@ body{
     padding-bottom: 0px;
     margin-bottom: 0px;
     width: 233px;
+    height: auto;
     border-radius: 8px;
     border-color: rgba(237, 237, 237, 1.00);
 }
@@ -294,8 +295,10 @@ body{
     font-size: medium;
 }
 .salon_For_Women_card_head{
-    padding: 24px 24px 0px;
+    padding: 17px 20px 0px;
+    font-weight: 400;
 }
+
 .salon_For_Women_main_div{
     display:flex;
     overflow-y: hidden;
